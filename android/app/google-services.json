@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "24026470390",
+    "project_id": "flutter-chat-app-fac83",
+    "storage_bucket": "flutter-chat-app-fac83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24026470390:android:86fa3e7d7cc6caa55599d7",
+        "android_client_info": {
+          "package_name": "com.bersyte.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24026470390-ovlt7dttks5n7m8idts85ocvh8gnmv8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMeUMss6W3o0FcAzJTDcmkv_Ejo1RLdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24026470390-ovlt7dttks5n7m8idts85ocvh8gnmv8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24026470390-itr7qa2ro6if917guf87flohub1boj6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bersyte.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
